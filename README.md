@@ -48,4 +48,4 @@ This project is licensed under the MIT License.
 
 --- 
 
-This README now has the correct heading and paragraph format, similar to your example.
+
